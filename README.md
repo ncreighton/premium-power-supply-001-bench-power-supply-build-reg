@@ -1,0 +1,2 @@
+# premium-power-supply-001-bench-power-supply-build-reg
+Tired of scattered sticky notes and lost component specs when building your bench power supply? The Bench Power Supply Build &amp; Regulate Craft Hub turns chaotic build logs into a clear, regulated workflow.  This Notion template gives you a structured command center to design, assemble, and regulate your bench power supply from start to finish. No mo
